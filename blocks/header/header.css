@@ -22,7 +22,7 @@
 
 @media screen and (max-width: 425px) {
   .header{
-    width: calc(100% - 16px * 2);
+    max-width: calc(100% - 16px * 2);
     margin: 0 16px 50px 16px;
     width: 288px;
     text-align: center;
