@@ -25,4 +25,4 @@ Portland to Portland project is a 1 page that fits all. from Desktops computers 
 * fully working language bar for more people to enjoy the site.
 
 ## Are you ready to take a trip from Portland to Portland?
-Than come on, Click on the link to start -> https://spike911rr.github.io/web_project_3/
+Than come on, Click on the link to start -> [Take the trip](https://spike911rr.github.io/web_project_3/)
