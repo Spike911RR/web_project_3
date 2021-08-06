@@ -1,0 +1,20 @@
+.cover__image{
+  background-image: url('../../../images/cover-route-66.jpg');
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  margin-left: 0;
+  object-fit: cover;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 425px) {
+  .cover__image{
+    width: 320px;
+    height: 200px;
+  }
+}
