@@ -1,0 +1,22 @@
+.gallery{
+  width: calc(100% - 48px*2);
+  box-sizing: border-box;
+}
+/*
+@media screen and (max-width: 768px) {
+  .gallery{
+    width: calc(100% - 24px * 2);
+    margin-top: 88px;
+    margin-bottom: 88px;
+    width: 720px;
+    height: 1664px;
+  }
+}*/
+
+@media screen and (max-width: 425px) {
+  .gallery{
+    width: calc(100% - 16px * 2);
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
