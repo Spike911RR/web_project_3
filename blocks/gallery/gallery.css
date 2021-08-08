@@ -1,5 +1,7 @@
 .gallery{
-  width: calc(100% - 48px*2);
+  max-width: calc(100% - 48px*2);
+ /* width: 1184px;
+  height: 671px;*/
   box-sizing: border-box;
 }
 /*

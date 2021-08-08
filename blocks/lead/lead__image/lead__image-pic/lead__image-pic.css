@@ -6,6 +6,7 @@
   .lead__image-pic{
     height: 480px;
     width: 768px;
+    max-width: 100%;
   }
 }
 
@@ -13,5 +14,6 @@
   .lead__image-pic{
     width: 320px;
     height: 200px;
+    max-width: 100%;
   }
 }

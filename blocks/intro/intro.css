@@ -1,5 +1,7 @@
 .intro{
   max-width: 690px;
+  width: 690px;
+  width: 569px;
   display: flex;
   justify-content: flex-start;
   flex-direction: column;
