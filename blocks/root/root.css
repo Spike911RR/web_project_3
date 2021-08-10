@@ -11,9 +11,3 @@
   -webkit-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
 }
-
-@media screen and (max-width: 768px) {
-  .root{
-    min-width: 320px;
-  }
-}
