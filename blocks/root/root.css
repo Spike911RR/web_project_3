@@ -11,3 +11,10 @@
   -webkit-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
 }
+
+
+@media screen and (max-width: 320px) {
+  .root{
+    max-width: 320px;
+  }
+}

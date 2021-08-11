@@ -8,3 +8,15 @@
   width: 100%;
   margin: 0 auto 92px;
 }
+
+@media screen and (max-width: 320px) {
+  .gallery__item{
+    margin-bottom: 0;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .gallery__item{
+    margin-bottom: 0;
+  }
+}

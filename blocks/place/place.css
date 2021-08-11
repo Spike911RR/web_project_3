@@ -12,7 +12,7 @@
 
 @media screen and (max-width: 1024px) {
   .place{
-    grid-gap: 48px 32px;
+    gap: 48px 32px;
   }
 }
 
@@ -35,5 +35,6 @@
     grid-gap: 32px;
     margin-left: 0;
     margin-right: 0;
+    width: 320px
   }
 }
